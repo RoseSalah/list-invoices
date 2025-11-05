@@ -15,11 +15,12 @@ This project implements an end-to-end integration with the **Wafeq API** to auth
 
 ## 🧱 Project Structure
 
-|     File    |   Description 
-|-------------|--------------
-| `config.py` | Handles OAuth2 flow: building authorization URL, receiving callback, exchanging code for tokens, and saving credentials to `.env`. 
-| `fetch.py`  | Fetches invoices from the Wafeq API, supports pagination and CSV export, and refreshes tokens automatically when needed. 
-|   `.env`    | Configuration file for API credentials, organization ID, and pagination settings. 
+|      File      |   Description 
+|----------------|--------------
+|   `config.py`  | Handles OAuth2 flow: building authorization URL, receiving callback, exchanging code for tokens, and saving credentials to `.env`. 
+|   `fetch.py`   | Fetches invoices from the Wafeq API, supports pagination and CSV export, and refreshes tokens automatically when needed. 
+|     `.env`     | Configuration file for API credentials, organization ID, and pagination settings. 
+| `invoices.csv` | Code Result: fetched invoices from the organization.
 
 ---
 

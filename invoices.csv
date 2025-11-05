@@ -1,0 +1,210 @@
+invoice_number,date,customer,status,description,unit_price,qty,line_total
+INV-000554,2025-11-05,rose taha,draft,Milk line 155,16.94,6.0,101.64
+INV-000526,2025-11-05,New User,draft,Bananas line 127,97.11,5.0,485.55
+INV-000504,2025-11-05,Wafeq,draft,Juice line 105,161.31,16.0,2580.96
+INV-000500,2025-11-05,rose taha,draft,Mango line 101,40.36,5.0,201.80
+INV-000573,2025-11-04,Wafeq,draft,Grapes line 174,56.59,17.0,962.03
+INV-000482,2025-11-04,rose taha,draft,Apples line 83,133.40,13.0,1734.20
+INV-000503,2025-11-04,rose taha,draft,Bananas line 104,11.75,12.0,141.00
+INV-000464,2025-11-04,rose taha,draft,Potatoes line 65,161.33,20.0,3226.60
+INV-000471,2025-11-04,Wafeq,draft,Potatoes line 72,187.53,3.0,562.59
+INV-000470,2025-11-04,rose taha,draft,Bananas line 71,246.80,14.0,3455.20
+INV-000108,2025-11-04,New User,sent,Mango,11110.00,1.0,11110.00
+INV-000107,2025-11-04,rose taha,draft,Bananas,478.00,20.0,9560.00
+INV-000106,2025-11-04,Wafeq,draft,Apples,447.00,1.0,447.00
+INV-000105,2025-11-04,Wafeq,sent,Lemons,20.00,1.0,20.00
+INV-000104,2025-11-04,New User,sent,Grapes,10.00,1.0,10.00
+INV-000103,2025-11-04,rose taha,sent,Milk,97.00,1.0,97.00
+INV-000102,2025-11-04,rose taha,sent,Juice,99.00,5.0,495.00
+INV-000101,2025-11-04,rose taha,sent,Melons,100.00,20.0,2000.00
+INV-000100,2025-11-04,rose taha,sent,Potatos,50.00,1.0,50.00
+INV-000574,2025-11-03,New User,draft,Lemons line 175,75.10,8.0,600.80
+INV-000505,2025-11-03,New User,draft,Juice line 106,176.89,2.0,353.78
+INV-000478,2025-11-03,New User,draft,Grapes line 79,171.69,3.0,515.07
+INV-000480,2025-11-03,Wafeq,draft,Juice line 81,130.66,19.0,2482.54
+INV-000501,2025-11-03,Wafeq,draft,Melons line 102,127.18,12.0,1526.16
+INV-000457,2025-11-03,New User,draft,Bananas line 58,40.78,3.0,122.34
+INV-000441,2025-11-03,Wafeq,draft,Grapes line 42,30.81,17.0,523.77
+INV-000420,2025-11-03,Wafeq,draft,Melons line 21,137.40,15.0,2061.00
+INV-000558,2025-11-02,Wafeq,draft,Bananas line 159,80.10,7.0,560.70
+INV-000576,2025-11-02,Wafeq,draft,Lemons line 177,114.32,13.0,1486.16
+INV-000551,2025-11-02,rose taha,draft,Lemons line 152,145.62,9.0,1310.58
+INV-000523,2025-11-02,New User,draft,Apples line 124,247.71,13.0,3220.23
+INV-000541,2025-11-02,New User,draft,Potatoes line 142,177.84,1.0,177.84
+INV-000493,2025-11-02,New User,draft,Juice line 94,99.22,12.0,1190.64
+INV-000460,2025-11-02,New User,draft,Milk line 61,199.35,18.0,3588.30
+INV-000452,2025-11-02,rose taha,draft,Potatoes line 53,102.86,5.0,514.30
+INV-000429,2025-11-02,Wafeq,draft,Grapes line 30,175.35,17.0,2980.95
+INV-000566,2025-11-01,rose taha,draft,Apples line 167,146.12,20.0,2922.40
+INV-000533,2025-11-01,rose taha,draft,Melons line 134,181.16,19.0,3442.04
+INV-000520,2025-11-01,New User,draft,Bananas line 121,99.52,7.0,696.64
+INV-000412,2025-11-01,New User,draft,Milk line 13,74.97,5.0,374.85
+INV-000415,2025-10-31,New User,draft,Grapes line 16,71.26,15.0,1068.90
+INV-000553,2025-10-30,New User,draft,Lemons line 154,7.04,13.0,91.52
+INV-000527,2025-10-30,rose taha,draft,Apples line 128,79.50,20.0,1590.00
+INV-000475,2025-10-30,New User,draft,Melons line 76,56.33,15.0,844.95
+INV-000428,2025-10-30,rose taha,draft,Grapes line 29,218.57,19.0,4152.83
+INV-000517,2025-10-29,New User,draft,Melons line 118,216.70,16.0,3467.20
+INV-000450,2025-10-29,Wafeq,draft,Milk line 51,160.85,16.0,2573.60
+INV-000546,2025-10-28,Wafeq,draft,Milk line 147,101.94,10.0,1019.40
+INV-000421,2025-10-28,New User,draft,Juice line 22,233.11,1.0,233.11
+INV-000531,2025-10-27,Wafeq,draft,Milk line 132,33.29,1.0,33.29
+INV-000537,2025-10-27,Wafeq,draft,Juice line 138,231.89,6.0,1391.34
+INV-000484,2025-10-27,New User,draft,Melons line 85,242.64,6.0,1455.84
+INV-000446,2025-10-27,rose taha,draft,Potatoes line 47,33.26,8.0,266.08
+INV-000444,2025-10-27,Wafeq,draft,Apples line 45,26.69,14.0,373.66
+INV-000422,2025-10-27,rose taha,draft,Potatoes line 23,126.91,10.0,1269.10
+INV-000565,2025-10-26,New User,draft,Potatoes line 166,98.66,8.0,789.28
+INV-000466,2025-10-26,New User,draft,Melons line 67,94.10,13.0,1223.30
+INV-000512,2025-10-25,rose taha,draft,Milk line 113,190.98,7.0,1336.86
+INV-000547,2025-10-25,New User,draft,Apples line 148,132.81,19.0,2523.39
+INV-000448,2025-10-25,New User,draft,Potatoes line 49,70.48,9.0,634.32
+INV-000496,2025-10-25,New User,draft,Juice line 97,143.50,13.0,1865.50
+INV-000562,2025-10-24,New User,draft,Bananas line 163,198.60,12.0,2383.20
+INV-000597,2025-10-24,Wafeq,draft,Lemons line 198,37.97,17.0,645.49
+INV-000596,2025-10-24,rose taha,draft,Lemons line 197,45.78,14.0,640.92
+INV-000474,2025-10-24,Wafeq,draft,Milk line 75,29.31,20.0,586.20
+INV-000439,2025-10-24,New User,draft,Bananas line 40,49.14,1.0,49.14
+INV-000564,2025-10-23,Wafeq,draft,Melons line 165,181.38,9.0,1632.42
+INV-000584,2025-10-23,rose taha,draft,Grapes line 185,77.75,20.0,1555.00
+INV-000575,2025-10-23,rose taha,draft,Juice line 176,245.32,13.0,3189.16
+INV-000524,2025-10-23,rose taha,draft,Potatoes line 125,167.07,19.0,3174.33
+INV-000525,2025-10-23,Wafeq,draft,Milk line 126,183.09,2.0,366.18
+INV-000521,2025-10-23,rose taha,draft,Potatoes line 122,32.63,17.0,554.71
+INV-000515,2025-10-23,rose taha,draft,Melons line 116,53.46,19.0,1015.74
+INV-000408,2025-10-23,Wafeq,draft,Apples line 9,13.12,20.0,262.40
+INV-000589,2025-10-22,New User,draft,Milk line 190,185.59,16.0,2969.44
+INV-000528,2025-10-22,Wafeq,draft,Bananas line 129,125.58,12.0,1506.96
+INV-000489,2025-10-22,Wafeq,draft,Juice line 90,229.90,18.0,4138.20
+INV-000458,2025-10-22,rose taha,draft,Grapes line 59,68.78,10.0,687.80
+INV-000461,2025-10-21,rose taha,draft,Milk line 62,163.96,2.0,327.92
+INV-000451,2025-10-21,New User,draft,Melons line 52,156.31,18.0,2813.58
+INV-000436,2025-10-20,New User,draft,Potatoes line 37,243.47,8.0,1947.76
+INV-000590,2025-10-19,rose taha,draft,Melons line 191,103.66,10.0,1036.60
+INV-000459,2025-10-19,Wafeq,draft,Potatoes line 60,62.53,14.0,875.42
+INV-000563,2025-10-18,rose taha,draft,Bananas line 164,207.21,2.0,414.42
+INV-000578,2025-10-18,rose taha,draft,Milk line 179,231.47,20.0,4629.40
+INV-000437,2025-10-18,rose taha,draft,Lemons line 38,17.19,11.0,189.09
+INV-000401,2025-10-18,rose taha,draft,Melons line 2,7.27,16.0,116.32
+INV-000593,2025-10-17,rose taha,draft,Potatoes line 194,63.87,4.0,255.48
+INV-000506,2025-10-17,rose taha,draft,Lemons line 107,100.95,9.0,908.55
+INV-000545,2025-10-17,rose taha,draft,Grapes line 146,135.91,19.0,2582.29
+INV-000433,2025-10-17,New User,draft,Mango line 34,103.09,9.0,927.81
+INV-000419,2025-10-17,rose taha,draft,Juice line 20,134.16,1.0,134.16
+INV-000435,2025-10-17,Wafeq,draft,Melons line 36,173.37,19.0,3294.03
+INV-000599,2025-10-16,rose taha,draft,Milk line 200,55.13,4.0,220.52
+INV-000542,2025-10-16,rose taha,draft,Juice line 143,75.17,3.0,225.51
+INV-000469,2025-10-16,New User,draft,Lemons line 70,200.45,9.0,1804.05
+INV-000586,2025-10-15,New User,draft,Grapes line 187,105.75,3.0,317.25
+INV-000497,2025-10-15,rose taha,draft,Juice line 98,82.50,19.0,1567.50
+INV-000430,2025-10-15,New User,draft,Potatoes line 31,156.76,5.0,783.80
+INV-000595,2025-10-14,New User,draft,Grapes line 196,19.23,3.0,57.69
+INV-000507,2025-10-14,Wafeq,draft,Juice line 108,71.72,4.0,286.88
+INV-000455,2025-10-14,rose taha,draft,Grapes line 56,88.42,1.0,88.42
+INV-000498,2025-10-14,Wafeq,draft,Melons line 99,136.03,15.0,2040.45
+INV-000445,2025-10-14,New User,draft,Potatoes line 46,63.25,6.0,379.50
+INV-000579,2025-10-13,Wafeq,draft,Potatoes line 180,115.34,16.0,1845.44
+INV-000580,2025-10-13,New User,draft,Lemons line 181,121.40,3.0,364.20
+INV-000536,2025-10-13,rose taha,draft,Melons line 137,93.79,3.0,281.37
+INV-000535,2025-10-13,New User,draft,Milk line 136,77.59,12.0,931.08
+INV-000483,2025-10-13,Wafeq,draft,Melons line 84,153.11,19.0,2909.09
+INV-000494,2025-10-13,rose taha,draft,Melons line 95,128.82,17.0,2189.94
+INV-000454,2025-10-13,New User,draft,Lemons line 55,82.64,20.0,1652.80
+INV-000431,2025-10-13,rose taha,draft,Potatoes line 32,175.42,12.0,2105.04
+INV-000559,2025-10-12,New User,draft,Mango line 160,175.48,11.0,1930.28
+INV-000556,2025-10-12,New User,draft,Juice line 157,115.08,7.0,805.56
+INV-000539,2025-10-12,rose taha,draft,Milk line 140,59.09,19.0,1122.71
+INV-000530,2025-10-12,rose taha,draft,Melons line 131,89.82,2.0,179.64
+INV-000477,2025-10-12,Wafeq,draft,Milk line 78,122.73,7.0,859.11
+INV-000567,2025-10-11,Wafeq,draft,Apples line 168,238.24,1.0,238.24
+INV-000552,2025-10-11,Wafeq,draft,Juice line 153,38.04,14.0,532.56
+INV-000465,2025-10-11,Wafeq,draft,Mango line 66,68.95,17.0,1172.15
+INV-000409,2025-10-11,New User,draft,Bananas line 10,165.05,4.0,660.20
+INV-000403,2025-10-11,New User,draft,Apples line 4,178.77,3.0,536.31
+INV-000410,2025-10-11,rose taha,draft,Bananas line 11,69.06,10.0,690.60
+INV-000538,2025-10-10,New User,draft,Bananas line 139,249.86,12.0,2998.32
+INV-000487,2025-10-10,New User,draft,Lemons line 88,31.14,6.0,186.84
+INV-000594,2025-10-09,Wafeq,draft,Apples line 195,33.52,2.0,67.04
+INV-000486,2025-10-09,Wafeq,draft,Lemons line 87,150.39,12.0,1804.68
+INV-000453,2025-10-09,Wafeq,draft,Bananas line 54,49.84,11.0,548.24
+INV-000568,2025-10-08,New User,draft,Lemons line 169,187.68,8.0,1501.44
+INV-000583,2025-10-08,New User,draft,Potatoes line 184,234.99,4.0,939.96
+INV-000591,2025-10-08,Wafeq,draft,Apples line 192,151.66,15.0,2274.90
+INV-000555,2025-10-08,Wafeq,draft,Mango line 156,11.90,11.0,130.90
+INV-000425,2025-10-08,rose taha,draft,Apples line 26,177.79,17.0,3022.43
+INV-000569,2025-10-07,rose taha,draft,Grapes line 170,50.43,20.0,1008.60
+INV-000519,2025-10-07,Wafeq,draft,Mango line 120,183.10,18.0,3295.80
+INV-000516,2025-10-07,Wafeq,draft,Melons line 117,210.05,14.0,2940.70
+INV-000447,2025-10-07,Wafeq,draft,Melons line 48,149.50,5.0,747.50
+INV-000592,2025-10-06,New User,draft,Bananas line 193,246.30,18.0,4433.40
+INV-000557,2025-10-06,rose taha,draft,Potatoes line 158,75.54,14.0,1057.56
+INV-000514,2025-10-06,New User,draft,Milk line 115,121.41,4.0,485.64
+INV-000407,2025-10-06,rose taha,draft,Juice line 8,106.64,8.0,853.12
+INV-000402,2025-10-06,Wafeq,draft,Grapes line 3,53.49,9.0,481.41
+INV-000571,2025-10-05,New User,draft,Milk line 172,13.82,1.0,13.82
+INV-000509,2025-10-05,rose taha,draft,Potatoes line 110,185.57,2.0,371.14
+INV-000481,2025-10-05,New User,draft,Milk line 82,204.25,20.0,4085.00
+INV-000467,2025-10-05,rose taha,draft,Apples line 68,107.59,1.0,107.59
+INV-000473,2025-10-05,rose taha,draft,Grapes line 74,122.33,15.0,1834.95
+INV-000462,2025-10-05,Wafeq,draft,Potatoes line 63,10.88,10.0,108.80
+INV-000495,2025-10-05,Wafeq,draft,Melons line 96,169.51,9.0,1525.59
+INV-000427,2025-10-05,New User,draft,Lemons line 28,71.77,13.0,933.01
+INV-000413,2025-10-05,rose taha,draft,Lemons line 14,91.32,20.0,1826.40
+INV-000585,2025-10-04,Wafeq,draft,Melons line 186,10.15,2.0,20.30
+INV-000508,2025-10-04,New User,draft,Milk line 109,109.51,19.0,2080.69
+INV-000492,2025-10-04,Wafeq,draft,Potatoes line 93,169.11,15.0,2536.65
+INV-000423,2025-10-04,Wafeq,draft,Milk line 24,169.37,14.0,2371.18
+INV-000549,2025-10-03,Wafeq,draft,Milk line 150,246.49,10.0,2464.90
+INV-000426,2025-10-03,Wafeq,draft,Apples line 27,181.77,1.0,181.77
+INV-000582,2025-10-02,Wafeq,draft,Melons line 183,32.15,18.0,578.70
+INV-000463,2025-10-02,New User,draft,Grapes line 64,187.77,1.0,187.77
+INV-000404,2025-10-02,rose taha,draft,Juice line 5,144.19,7.0,1009.33
+INV-000572,2025-10-01,rose taha,draft,Bananas line 173,19.58,6.0,117.48
+INV-000588,2025-10-01,Wafeq,draft,Milk line 189,195.40,10.0,1954.00
+INV-000581,2025-10-01,rose taha,draft,Juice line 182,32.01,15.0,480.15
+INV-000540,2025-10-01,Wafeq,draft,Melons line 141,103.18,15.0,1547.70
+INV-000479,2025-10-01,rose taha,draft,Potatoes line 80,159.03,11.0,1749.33
+INV-000434,2025-10-01,rose taha,draft,Melons line 35,190.35,17.0,3235.95
+INV-000440,2025-10-01,rose taha,draft,Melons line 41,207.67,6.0,1246.02
+INV-000411,2025-10-01,Wafeq,draft,Bananas line 12,242.98,20.0,4859.60
+INV-000406,2025-10-01,New User,draft,Juice line 7,156.16,13.0,2030.08
+INV-000405,2025-10-01,Wafeq,draft,Juice line 6,187.58,12.0,2250.96
+INV-000598,2025-09-30,New User,draft,Potatoes line 199,186.57,19.0,3544.83
+INV-000511,2025-09-30,New User,draft,Juice line 112,222.32,10.0,2223.20
+INV-000485,2025-09-30,rose taha,draft,Melons line 86,76.12,20.0,1522.40
+INV-000560,2025-09-29,rose taha,draft,Mango line 161,195.19,3.0,585.57
+INV-000502,2025-09-29,New User,draft,Bananas line 103,152.57,4.0,610.28
+INV-000488,2025-09-29,rose taha,draft,Melons line 89,164.62,10.0,1646.20
+INV-000499,2025-09-29,New User,draft,Juice line 100,219.80,8.0,1758.40
+INV-000438,2025-09-29,Wafeq,draft,Potatoes line 39,100.62,4.0,402.48
+INV-000417,2025-09-29,Wafeq,draft,Apples line 18,40.50,3.0,121.50
+INV-000587,2025-09-28,rose taha,draft,Mango line 188,135.33,12.0,1623.96
+INV-000534,2025-09-28,Wafeq,draft,Mango line 135,19.83,19.0,376.77
+INV-000532,2025-09-28,New User,draft,Apples line 133,116.37,14.0,1629.18
+INV-000543,2025-09-28,Wafeq,draft,Grapes line 144,115.12,18.0,2072.16
+INV-000424,2025-09-28,New User,draft,Milk line 25,232.78,2.0,465.56
+INV-000432,2025-09-28,Wafeq,draft,Lemons line 33,166.14,4.0,664.56
+INV-000442,2025-09-28,New User,draft,Juice line 43,52.88,9.0,475.92
+INV-000518,2025-09-27,rose taha,draft,Bananas line 119,206.11,11.0,2267.21
+INV-000472,2025-09-27,New User,draft,Potatoes line 73,43.65,11.0,480.15
+INV-000443,2025-09-27,rose taha,draft,Juice line 44,29.84,12.0,358.08
+INV-000513,2025-09-26,Wafeq,draft,Potatoes line 114,158.07,8.0,1264.56
+INV-000544,2025-09-26,New User,draft,Apples line 145,30.02,9.0,270.18
+INV-000476,2025-09-26,rose taha,draft,Lemons line 77,146.00,19.0,2774.00
+INV-000416,2025-09-26,rose taha,draft,Melons line 17,244.41,14.0,3421.74
+INV-000577,2025-09-24,New User,draft,Melons line 178,237.92,17.0,4044.64
+INV-000548,2025-09-24,rose taha,draft,Grapes line 149,87.98,18.0,1583.64
+INV-000491,2025-09-24,rose taha,draft,Grapes line 92,30.03,5.0,150.15
+INV-000400,2025-09-24,New User,draft,Lemons line 1,41.56,4.0,166.24
+INV-000570,2025-09-23,Wafeq,draft,Grapes line 171,139.29,17.0,2367.93
+INV-000561,2025-09-23,Wafeq,draft,Juice line 162,225.76,4.0,903.04
+INV-000510,2025-09-23,Wafeq,draft,Potatoes line 111,46.27,18.0,832.86
+INV-000468,2025-09-23,Wafeq,draft,Apples line 69,210.08,2.0,420.16
+INV-000490,2025-09-23,New User,draft,Lemons line 91,239.73,5.0,1198.65
+INV-000550,2025-09-22,New User,draft,Potatoes line 151,185.87,9.0,1672.83
+INV-000449,2025-09-22,rose taha,draft,Lemons line 50,202.62,19.0,3849.78
+INV-000414,2025-09-22,Wafeq,draft,Bananas line 15,234.42,12.0,2813.04
+INV-000418,2025-09-22,New User,draft,Potatoes line 19,132.17,16.0,2114.72
+INV-000529,2025-09-21,New User,draft,Grapes line 130,86.13,13.0,1119.69
+INV-000522,2025-09-21,Wafeq,draft,Milk line 123,79.13,19.0,1503.47
+INV-000456,2025-09-21,Wafeq,draft,Melons line 57,53.62,18.0,965.16

@@ -43,7 +43,7 @@ class OAuthCallbackHandler(http.server.SimpleHTTPRequestHandler):
                 self.send_response(200)
                 self.send_header("Content-type", "text/html")
                 self.end_headers()
-                self.wfile.write(b"<h2>Auth received. You can close this tab.</h2>")
+                self.wfile.write(b"<h2>Auth received. }an close this tab.</h2>")
             else:
                 self.send_response(200)
                 self.end_headers()

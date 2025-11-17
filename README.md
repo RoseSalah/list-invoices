@@ -8,7 +8,7 @@ This project implements an end-to-end integration with the **Wafeq API** to auth
 - ✅ OAuth2 Authorization Code Flow
 - 🔁 Automatic Token Refresh
 - 📄 Invoice listing with Pagination (per Wafeq API)
-- ⚙️ Configurable organization and page size via `.env`
+- ⚙️ Configurable page size via `.env`
 - 💾 CSV export of invoices and line items
 
 ---
@@ -19,7 +19,7 @@ This project implements an end-to-end integration with the **Wafeq API** to auth
 |----------------|--------------
 |   `config.py`  | Handles OAuth2 flow: building authorization URL, receiving callback, exchanging code for tokens, and saving credentials to `.env`. 
 |   `fetch.py`   | Fetches invoices from the Wafeq API, supports pagination and CSV export, and refreshes tokens automatically when needed. 
-|     `.env`     | Configuration file for API credentials, organization ID, and pagination settings. 
+|     `.env`     | Configuration file for base URLs, API credentials and endpoints, and pagination settings. 
 | `invoices.csv` | Code Result: fetched invoices from the organization.
 
 ---
@@ -34,7 +34,7 @@ AUTH_URL=https://app.wafeq.com/oauth/authorize/
 TOKEN_URL=https://app.wafeq.com/oauth/token/
 CLIENT_ID=your_client_id_here
 CLIENT_SECRET=your_client_secret_here
-REDIRECT_URI=http://localhost:3000/callback
+REDIRECT_URI=your_redirect_uri_here
 
 # Tokens (auto-saved by config.py)
 AUTH_CODE=
@@ -43,7 +43,6 @@ REFRESH_TOKEN=
 
 # API Configuration
 BASE_URL=https://api.wafeq.com/v1
-ORG_ID=co_yourOrganizationID
 PAGE_SIZE=50
 CSV_FILE=invoices.csv
 ```
@@ -104,8 +103,4 @@ INV-002         | 2025-11-04 | Wafeq           | DRAFT  |     Subscription      
 - The `.env` file is automatically updated with the latest tokens.  
 - **CSV export** ensures data can be reused for reports or analysis.  
 - **DELETED** invoices are ignored
-
----
-
-
 
